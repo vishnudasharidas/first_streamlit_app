@@ -8,5 +8,10 @@ streamlit.text(" 🐔 Hard-boiled free-range egg !")
 streamlit.text(" 🥑🍞Avacado Tost !")
 
 streamlit.header("🍌🥭 Build Your Own Fruit Smoothie 🥝🍇")
+streamlit.text("🍌 Oaty banana smoothie")
+streamlit.text("🍌🥭Trail mix smoothie")
+streamlit.text("🍇 Endless summer smoothie")
+streamlit.text("🥝 Orange creamsicle protein shake")
+
 
 
